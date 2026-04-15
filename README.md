@@ -4,7 +4,7 @@ Experience Skyrim through a new lens. by leveraging Advanced Complex Materials, 
 
 <img width="2863" height="817" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/refs/heads/main/KIRBYKINGS%20Headpage.jpg" />
 
-## 🌟PLEASE READ THIS (IMPORTANT THINGS BEFORE PLAYING): https://www.nexusmods.com/skyrimspecialedition/articles/11908
+## 🌟PLEASE READ THIS (IMPORTANT THINGS BEFORE PLAYING): https://www.nexusmods.com/skyrimspecialedition/articles/11920
 
 # 🌟LINKS
 - Nexus: https://www.nexusmods.com/skyrimspecialedition/mods/176214
