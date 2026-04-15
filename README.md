@@ -2,7 +2,7 @@
 ## The Next Generation of Skyrim Evolution with Community Shaders
 Experience Skyrim through a new lens. by leveraging Advanced Complex Materials, transforms every surface into a masterpiece of light and shadow.
 
-<img width="1920" height="1080" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/refs/heads/main/KIRBYKINGS%20Modlist%203.jpg" />
+<img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/refs/heads/main/KIRBYKINGS%20Modlist%203.jpg" />
 
 ## 🌟PLEASE READ THIS (IMPORTANT THINGS BEFORE PLAYING): https://www.nexusmods.com/skyrimspecialedition/articles/11920
 
