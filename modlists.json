@@ -1,0 +1,39 @@
+
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim KIRBYKINGS Modlist",
+    "description": "Experience Skyrim through a new lens, by leveraging Advanced Complex Materials, transforms every surface into a masterpiece of light and shadow.",
+    "author": "Kimutkirby",
+    "maintainers": [
+      "github/kimut-kirby"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "NSFW",
+      "Steam",
+      "Total Overhaul"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/refs/heads/main/KIRBYKINGS%20Modlist.webp",
+      "readme": "https://github.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/blob/main/KIRBYKINGS%20INSTALLATION%20GUIDE.pdf",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20KIRBYKINGS%20NSFW%20Edition.wabbajack_fff4f9f0-161c-478a-b0bf-d4f644ebcc08",
+      "machineURL": "SkyrimKIRBYKINGSModlist",
+      "discordURL": "https://discord.com/invite/4N4rWBFVKP"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "SPl/MgjbyRA=",
+      "Size": 238207588,
+      "NumberOfArchives": 2344,
+      "SizeOfArchives": 217182505504,
+      "NumberOfInstalledFiles": 381196,
+      "SizeOfInstalledFiles": 356755089388
+    },
+    "version": "2.0.0"
+  }
+]
