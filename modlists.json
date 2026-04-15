@@ -10,11 +10,11 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "NSFW",
+      "SFW",
       "Steam",
       "Total Overhaul"
     ],
-    "nsfw": true,
+    "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
