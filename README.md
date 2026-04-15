@@ -2,7 +2,7 @@
 ## The Next Generation of Skyrim Evolution with Community Shaders
 Experience Skyrim through a new lens. by leveraging Advanced Complex Materials, transforms every surface into a masterpiece of light and shadow.
 
-<img width="2863" height="817" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/refs/heads/main/KIRBYKINGS%20Headpage.jpg" />
+<img width="1920" height="1080" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/refs/heads/main/KIRBYKINGS%20Modlist%203.jpg" />
 
 ## 🌟PLEASE READ THIS (IMPORTANT THINGS BEFORE PLAYING): https://www.nexusmods.com/skyrimspecialedition/articles/11920
 
@@ -12,7 +12,7 @@ Experience Skyrim through a new lens. by leveraging Advanced Complex Materials, 
 - Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-1-6
 - YouTube: https://youtube.com/@Kimuts
 - Support Me: https://paypal.com/paypalme/kimutkirby
-
+- 
 # 🌟Hard Requirement.
 [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe)  
 [Skyrim v1.6.1170 (WITHOUT ANNIVERSARY DLC)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition)  
