@@ -45,7 +45,7 @@ Touches every fiber of the game world. From the way you swing your sword to the 
 <img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1772461315-632515985.png" />
 
 ## 🌟Must Do! for better Gameplay.
-- INSTALLATION GUIDE: https://github.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/blob/main/KIRBYKINGS%20NSFW%20TUTORIAL%20INSTALL.pdf
+- INSTALLATION GUIDE: https://github.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/blob/main/KIRBYKINGS%20INSTALLATION%20GUIDE.pdf
 - Set CPU Affinity & Pagefile: https://www.nexusmods.com/skyrimspecialedition/articles/11617
 - BLACK SCREEN ISSUE FIX: https://www.nexusmods.com/skyrimspecialedition/articles/11890
 - TRUE HUD PERSONAL SETTINGS: https://www.nexusmods.com/skyrimspecialedition/articles/11641
