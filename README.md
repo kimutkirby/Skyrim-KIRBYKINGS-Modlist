@@ -11,8 +11,8 @@ Experience Skyrim through a new lens. by leveraging Advanced Complex Materials, 
 - Discord: https://discord.com/invite/4N4rWBFVKP
 - Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-1-6
 - YouTube: https://youtube.com/@Kimuts
-- Support Me: https://paypal.com/paypalme/kimutkirby
-- 
+- Support Me: https://linktr.ee/kimutkirby
+
 # 🌟Hard Requirement.
 [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe)  
 [Skyrim v1.6.1170 (WITHOUT ANNIVERSARY DLC)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition)  
