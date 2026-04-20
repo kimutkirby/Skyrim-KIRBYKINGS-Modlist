@@ -21,18 +21,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/refs/heads/main/KIRBYKINGS%20Modlist.webp",
       "readme": "https://github.com/kimutkirby/Skyrim-KIRBYKINGS-Modlist/blob/main/KIRBYKINGS%20INSTALLATION%20GUIDE.pdf",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20KIRBYKINGS%20Modlist.wabbajack_78e5b1bb-4f10-4d6a-adc2-9d387abbc7a9",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20KIRBYKINGS%20Modlist.wabbajack_1e7883d1-d705-49bd-8700-ccdd62e25ce0",
       "machineURL": "SkyrimKIRBYKINGSModlist",
       "discordURL": "https://discord.com/invite/4N4rWBFVKP"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "d/BLUQnwrbw=",
-      "Size": 257684455,
-      "NumberOfArchives": 2330,
-      "SizeOfArchives": 220151660157,
-      "NumberOfInstalledFiles": 320317,
-      "SizeOfInstalledFiles": 336705350454
+      "Hash": "z1BU28JotrA=",
+      "Size": 257361586,
+      "NumberOfArchives": 2339,
+      "SizeOfArchives": 220378846532,
+      "NumberOfInstalledFiles": 320924,
+      "SizeOfInstalledFiles": 336905886275
     },
     "version": "2.1.0"
   }
