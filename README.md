@@ -11,7 +11,7 @@ Experience Skyrim through a new lens. by leveraging Advanced Complex Materials, 
 - Discord: https://discord.com/invite/4N4rWBFVKP
 - Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-1-6
 - YouTube: https://youtube.com/@Kimuts
-- Support Me: https://linktr.ee/kimutkirby
+- Patreon: https://www.patreon.com/11775487/join
 
 # 🌟Hard Requirement.
 [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe)  
